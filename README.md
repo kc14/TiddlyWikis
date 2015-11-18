@@ -1,6 +1,10 @@
 # TiddlyWikis
-My TiddlyWikis are in the gh-pages branch. You can read them under the following link:
+My TiddlyWikis are in the gh-pages branch so they can be found under:
 
 * http://kc14.GitHub.io/TiddlyWikis/README.md
+
+To see the branch just follow:
+
+* https://github.com/kc14/TiddlyWikis/tree/gh-pages
 
 Have fun.
